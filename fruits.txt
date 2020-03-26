@@ -3,3 +3,4 @@ mango
 kiwi
 
 dragon fruit
+pineapple
